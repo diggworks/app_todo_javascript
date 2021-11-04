@@ -1,3 +1,27 @@
 body {
   font-family: sans-serif;
 }
+
+.input-area {
+  background-color: #c1ffff;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+.imcomplete-are {
+  background-color: #c6ffe2;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+.complete-are {
+  background-color: #ffffe0;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+.task-list li {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
